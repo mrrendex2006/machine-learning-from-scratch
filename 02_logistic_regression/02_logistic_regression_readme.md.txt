@@ -1,16 +1,11 @@
-# 🔮 Logistic Regression
+# 📊 Logistic Regression
 
-Binary classification using logistic regression — built from scratch and with scikit-learn.
+## 📌 Overview
+Binary classification using logistic regression.
 
-## Files
-| File | Description |
-|------|-------------|
-| `logistic_regression_scratch.ipynb` | Sigmoid, loss function, gradient descent from scratch |
-| `logistic_regression_sklearn.ipynb` | Using scikit-learn's `LogisticRegression` |
-
-## Concepts Covered
+## 🧠 Concepts
 - Sigmoid function
-- Binary Cross-Entropy Loss
 - Decision boundary
-- Precision, Recall, F1 Score
-- Confusion Matrix
+
+## ▶️ Run
+Open notebook and execute all cells
