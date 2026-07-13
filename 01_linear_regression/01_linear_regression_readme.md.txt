@@ -1,16 +1,17 @@
 # 📈 Linear Regression
 
-Learn linear regression from scratch using pure Python/NumPy, then with scikit-learn.
+## 📌 Overview
+This module covers Linear Regression from scratch using Python.
 
-## Files
-| File | Description |
-|------|-------------|
-| `linear_regression_scratch.ipynb` | Implementation from scratch using gradient descent |
-| `linear_regression_sklearn.ipynb` | Using scikit-learn's `LinearRegression` |
+## 🧠 Concepts Covered
+- Hypothesis function
+- Cost function
+- Gradient descent
 
-## Concepts Covered
-- Cost function (MSE)
-- Gradient Descent
-- R² Score
-- Feature scaling
-- Simple vs Multiple Linear Regression
+## 📂 Files
+- model.ipynb → core implementation
+- example-house-price.ipynb → real dataset example
+- example-diamond.ipynb → dataset practice
+
+## ▶️ How to Run
+Open the notebook and run all cells
