@@ -1,16 +1,20 @@
 # 🔮 Logistic Regression
 
-Binary classification using logistic regression — built from scratch and with scikit-learn.
+Binary and multi-class classification using logistic regression.
 
-## Files
+## 📂 Files
 | File | Description |
-|------|-------------|
-| `logistic_regression_scratch.ipynb` | Sigmoid, loss function, gradient descent from scratch |
-| `logistic_regression_sklearn.ipynb` | Using scikit-learn's `LogisticRegression` |
+|---|---|
+| `logistic_regressions.ipynb` | Core logistic regression implementation |
+| `breast_cancer01.ipynb` | Binary classification on the breast cancer dataset |
+| `AI_impack.ipynb` | Classification applied to an AI-impact related dataset |
 
-## Concepts Covered
+## 🧠 Concepts Covered
 - Sigmoid function
 - Binary Cross-Entropy Loss
 - Decision boundary
 - Precision, Recall, F1 Score
 - Confusion Matrix
+
+## ▶️ How to Run
+Open any notebook in Jupyter and run all cells top to bottom.
