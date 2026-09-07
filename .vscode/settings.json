@@ -13,7 +13,8 @@
             "name": "mrrendex",
             "username": "root",
             "connectionTimeout": 30,
-            "database": "mydb"
+            "database": "mydb",
+            "askForPassword": true
         }
     ]
 }
